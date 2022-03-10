@@ -1,0 +1,50 @@
+2022-03-10 00:10:40.554107 item_id: MLA913997736 item_title: Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:40.757111 item_id: MLA1106550080 item_title:  Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:40.956110 item_id: MLA926000369 item_title: Switch Linksys Se3008 category_id: MLA1708 category_name: Switches
+2022-03-10 00:10:41.156112 item_id: MLA1123962611 item_title: Notebook Dell Inspiron 3505 Plata 15.6 , Amd Ryzen 5 3450u  8gb De Ram 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 11 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:41.359188 item_id: MLA922850681 item_title:  Apc Easy Ups Bv Bv800i-ar 800va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:41.562110 item_id: MLA928736315 item_title:  Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:41.762110 item_id: MLA1111688897 item_title:  Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:41.964133 item_id: MLA1105622026 item_title:  Apc Easy Ups Bv1000i-ar 1000va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:42.163112 item_id: MLA926001777 item_title: Switch Linksys Se3005 category_id: MLA1708 category_name: Switches
+2022-03-10 00:10:42.367112 item_id: MLA1124626069 item_title: Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  16gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:42.578111 item_id: MLA927153653 item_title: Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  12gb De Ram 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:42.779113 item_id: MLA1118143499 item_title: Notebook Dell Inspiron 3505 Negra 15.6 , Amd Ryzen 5 3450u  12gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:42.979141 item_id: MLA919281388 item_title:  Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:43.178111 item_id: MLA875194522 item_title: Router Linksys Wrt3200acm Azul Y Negro category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:43.382111 item_id: MLA926291038 item_title:  Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:43.580113 item_id: MLA931548054 item_title: Sistema Wi-fi Mesh Linksys Velop Whw0301 Blanco 220v 3 Unidades category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:43.778111 item_id: MLA927112638 item_title: Notebook Dell Inspiron 3505 Gris 15.6 , Amd Ryzen 5 3450u  8gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 60 Hz 1366x768px Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:43.974109 item_id: MLA1124817293 item_title: Notebook Dell Inspiron 3502 Plata 15.55 , Intel Celeron N4020  4gb De Ram 128gb Ssd, Intel Uhd Graphics 600 60 Hz 1366x768px Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:44.176118 item_id: MLA932549653 item_title: Router Linksys Ea6350 Negro Y Plata 220v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:44.374120 item_id: MLA919422304 item_title: Access Point, Router Linksys Mr8300 Negro 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:44.565147 item_id: MLA932066921 item_title: Router Cisco Rv Series Rv340w Negro 110v/220v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:44.755117 item_id: MLA935217697 item_title: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:44.955109 item_id: MLA1123507869 item_title:  Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:45.158111 item_id: MLA931142484 item_title:  Apc Easy Ups Srv Srv2ki-ar 2000va Entrada De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:45.354112 item_id: MLA930094684 item_title: Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v 2 Unidades category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:45.562207 item_id: MLA925474288 item_title:  Apc Easy Ups Bv Bv650i-ar 650va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:45.762111 item_id: MLA931485853 item_title: Access Point, Repetidor, Router Linksys Max-stream Ea8300 Negro 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:45.970108 item_id: MLA912269641 item_title:  Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:46.172109 item_id: MLA898906657 item_title: Access Point, Router Linksys Max-stream Ea7450 Negro 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:46.373174 item_id: MLA1124885159 item_title: Notebook Dell Inspiron 5510 Blue 15.6 , Intel Core I5 11320h  8gb De Ram 256gb Ssd, Intel Iris Xe Graphics G7 96eus 60 Hz 1920x1080px Windows 11 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:46.579130 item_id: MLA1117198878 item_title: Notebook Dell Inspiron 3501 Plata 15.6 , Intel Core I5 1135g7  8gb De Ram 256gb Ssd, Intel Iris Xe Graphics G7 80eus 60 Hz 1366x768px Windows 10 Home category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:46.787112 item_id: MLA1110633008 item_title: Notebook Dell Latitude 3190 11  Hd Intel Celeron N4120 4 Gb Ddr4-sdram 128 Gb Ssd Wi-fi 5 (802.11ac) Windows 10 Home Negro category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:46.985119 item_id: MLA935548895 item_title: Access Point Exterior Tp-link Pharos Cpe210 Blanco 110v/220v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:47.189155 item_id: MLA935549146 item_title: Access Point, Repetidor Tp-link Pharos Cpe510 Blanco 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:47.385111 item_id: MLA876595621 item_title: Sistema Wi-fi Mesh Linksys Velop Whw0301 Blanco 220v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:47.588111 item_id: MLA1116245839 item_title: Sistema Wi-fi Mesh Linksys Velop Mx5300 Blanco 220v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:47.789111 item_id: MLA1119219028 item_title: Sistema Wi-fi Mesh Linksys Velop Mx12600 Blanco 220v 3 Unidades category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:47.997108 item_id: MLA1118257996 item_title: Switch Linksys Lgs124p category_id: MLA1708 category_name: Switches
+2022-03-10 00:10:48.194112 item_id: MLA932592066 item_title:  Apc Easy Ups Srv Srv1000 Srv1kil-ar 1000va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:48.392135 item_id: MLA874472550 item_title: Router Linksys Ea-series Ea6100 Negro 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:48.595112 item_id: MLA930612969 item_title:  Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:48.795112 item_id: MLA1117192208 item_title: Notebook Dell Inspiron 3501 Negra 15.6 , Intel Core I3 1005g1  4gb De Ram 1tb Hdd, Intel Uhd Graphics G1 60 Hz 1366x768px Linux Ubuntu category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:48.993108 item_id: MLA917228070 item_title: Router, Sistema Wi-fi Mesh Linksys Max-stream Mr6350 Negro 100v/240v category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:49.198134 item_id: MLA1123478603 item_title:  Apc Smart-ups Smt2200i-ar 2200va Entrada Y Salida De 230v Negro category_id: MLA1720 category_name: UPS
+2022-03-10 00:10:49.397113 item_id: MLA1125985236 item_title: Monitor Dell P2722h Lcd Tft 27   Negro 100v/240v category_id: MLA14407 category_name: Monitores
+2022-03-10 00:10:49.601110 item_id: MLA1124833862 item_title: Access Point, Router, Sistema Wi-fi Mesh Tp-link Deco X20 Blanco 220v 3 Unidades category_id: MLA430901 category_name: Routers
+2022-03-10 00:10:49.802107 item_id: MLA876794922 item_title: Impresora Multifunción Lexmark Mb2546adwe Con Wifi Gris Y Blanca 220v category_id: MLA1676 category_name: Impresoras
+2022-03-10 00:10:50.000112 item_id: MLA1122715809 item_title: Notebook Dell Inspiron 3502 Celeron 8gb 128gb Ssd Windows category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:50.206109 item_id: MLA1116995762 item_title: Notebook Dell Inspiron 3502 Celeron 8gb 1tb W10h category_id: MLA1652 category_name: Notebooks
+2022-03-10 00:10:50.407191 item_id: MLA1120903583 item_title: Notebook Dell Inspiron 5510 I7 16gb 512gb W10h category_id: MLA1652 category_name: Notebooks
