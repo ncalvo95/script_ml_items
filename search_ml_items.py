@@ -18,6 +18,7 @@ def main():
         category_id = item["category_id"]
         category = find_category_by_id(category_id)
         category_name = category["name"]
+        #2022-03-10 00:10:40.956110 item_id: MLA926000369 item_title: Switch Linksys Se3008 category_id: MLA1708 category_name: Switches
         log = (f'{date} '
               f'item_id: {item_id} '
               f'item_title: {item_title} '
@@ -25,7 +26,8 @@ def main():
               f'category_name: {category_name}\n')
         logs.append(log)
     file_date = datetime.now().strftime('%m-%d-%Y_%H.%M.%S')
-    with open(f'{SITE_ID}_{SELLER_ID}_{file_date}.txt','w') as f:
+    # MLA_179571326_03-10-2022_00.10.50.txt
+    with open(f'{SITE_ID}_{SELLER_ID}_{file_date}.txt','w') as f: 
         f.writelines(logs)
 
 def find_items_by_site_and_seller(site_id, seller_id):
